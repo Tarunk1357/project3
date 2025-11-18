@@ -4,8 +4,8 @@ body{
 
 }
 .container{
-    height: 70%;
-    width: 20%;
+    height: 75%;
+    max-width: 20%;
     background-color: white;
     border-radius: 10px;
     margin: auto;
@@ -23,7 +23,7 @@ body{
 .na{
     border-radius: 5px;
     padding: 10px;
-    padding-right: 150px;
+    width: 90%;
     margin-top: 5px;
     border-width: 1px;
 }
@@ -31,7 +31,7 @@ body{
 .sub{
     border-radius: 5px;
     padding: 10px;
-    padding-right: 247px;
+    width: 96%;
     margin-top: 5px;
     border-width: 1px;
 }
@@ -39,7 +39,7 @@ body{
 .mess{
     border-radius: 5px;
     padding: 10px;
-    padding-right: 153px;
+    width: 90%;
     margin-top: 5px;
     border-width: 1px;
     padding-bottom: 50px;
@@ -52,4 +52,8 @@ body{
     color: aliceblue;
     background-color: rgb(86, 86, 216);
     border-width: 1px ;
+    
+}
+button:hover{
+    background-color: black;
 }
