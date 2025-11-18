@@ -47,7 +47,8 @@ body{
 
 .butt{
     justify-content: center;
-    padding:10px 117px;
+    width: 97%;
+    padding: 10px 0px;
     border-radius: 10px;
     color: aliceblue;
     background-color: rgb(86, 86, 216);
