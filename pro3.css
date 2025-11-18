@@ -1,0 +1,55 @@
+body{
+    background:linear-gradient(to bottom right,rgb(136, 17, 233),rgb(246, 115, 224));
+    height: 100vh;
+
+}
+.container{
+    height: 70%;
+    width: 20%;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 100px;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-family:Calibri;
+    font-size:medium;
+    padding-right: 20px;
+    box-shadow: 10px rgb(91, 88, 88);
+}
+
+
+
+.na{
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 150px;
+    margin-top: 5px;
+    border-width: 1px;
+}
+
+.sub{
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 247px;
+    margin-top: 5px;
+    border-width: 1px;
+}
+
+.mess{
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 153px;
+    margin-top: 5px;
+    border-width: 1px;
+    padding-bottom: 50px;
+}
+
+.butt{
+    justify-content: center;
+    padding:10px 117px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: rgb(86, 86, 216);
+    border-width: 1px ;
+}
